@@ -2,13 +2,13 @@
 
 Small testing exercises for practicing Test Driven Development (TDD). Tasks are from The Odin Project [curriculum](https://www.theodinproject.com/lessons/node-path-javascript-testing-practice).
 
-##Technologies:
+## Technologies:
 
--JavaScript
--Jest
+- JavaScript
+- Jest
 
-##Tools:
+## Tools:
 
--Visual Studio Code
--Git and GitHub
--npm
+- Visual Studio Code
+- Git and GitHub
+- npm
