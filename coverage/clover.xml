@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1700757994306" clover="3.2.0">
-  <project timestamp="1700757994306" name="All files">
-    <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="6" coveredelements="6" complexity="0" loc="4" ncloc="4" packages="1" files="2" classes="2"/>
+<coverage generated="1700758472339" clover="3.2.0">
+  <project timestamp="1700758472340" name="All files">
+    <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6" elements="22" coveredelements="22" complexity="0" loc="16" ncloc="16" packages="1" files="3" classes="3"/>
+    <file name="calculator.js" path="/Users/Marius/Desktop/Odin Project/jest practice/testing-practice/calculator.js">
+      <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
     <file name="capitalize.js" path="/Users/Marius/Desktop/Odin Project/jest practice/testing-practice/capitalize.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="2" count="1" type="stmt"/>
